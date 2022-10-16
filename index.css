@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.bg-main-mobile {
+    background-image: url("./images/bg-main-mobile.png");
+}
+
